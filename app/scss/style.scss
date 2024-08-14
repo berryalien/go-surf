@@ -1,0 +1,12 @@
+.menu{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  &__list{
+    margin: 0;
+    padding: 0;
+  }
+}
+.test{
+  display: grid;
+}
